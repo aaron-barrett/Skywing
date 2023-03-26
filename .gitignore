@@ -2,3 +2,5 @@
 .nfs*
 build*/
 .vscode
+*.code-workspace
+capnproto-c++-win32-0.10.3/
